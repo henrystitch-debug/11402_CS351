@@ -16,3 +16,9 @@ By the end of this course, students will be able to:
 - Apply prompt engineering techniques to improve AI tool effectiveness
 - Implement responsible and ethical practices when using AI in professional development
 - Optimize their personal development workflows using AI-augmented tools and techniques
+- Learn how to use Github together with Jira
+
+### Tasks 
+
+> Project 0 (Two Sum Problem)
+> Project B (Mini CSV Database)
