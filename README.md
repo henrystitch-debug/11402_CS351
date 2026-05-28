@@ -1,7 +1,9 @@
 # CS 351: Modern AI-Assisted Software Development
 
 Name: Olivia Meisohle
+
 Student ID: 1123588
+
 Course: AI-assisted Software Development
 
 ### Course Description
@@ -16,9 +18,10 @@ By the end of this course, students will be able to:
 - Apply prompt engineering techniques to improve AI tool effectiveness
 - Implement responsible and ethical practices when using AI in professional development
 - Optimize their personal development workflows using AI-augmented tools and techniques
-- Learn how to use Github together with Jira
+- Practical learning by working on projects using Github together with Jira
 
 ### Tasks 
 
-> Project 0 (Two Sum Problem)
-> Project B (Mini CSV Database)
+11402_CS351_Project0: "Two Sum Problem": This project implements a solution to the classic Two Sum problem, a fundamental algorithm challenge commonly used in coding interviews and competitive programming. The solution finds two distinct indices in an array whose elements sum to a target value. Including testing the program.
+
+11402_CS351_ProjectB "Mini CSV Database": This project implements
