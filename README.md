@@ -1,10 +1,10 @@
 # CS 351: Modern AI-Assisted Software Development
 
-Name: Olivia Meisohle
+*Name: Olivia Meisohle*
 
-Student ID: 1123588
+*Student ID: 1123588*
 
-Course: AI-assisted Software Development
+*Course: AI-assisted Software Development*
 
 ### Course Description
 
@@ -22,6 +22,5 @@ By the end of this course, students will be able to:
 
 ### Tasks 
 
-11402_CS351_Project0: "Two Sum Problem": This project implements a solution to the classic Two Sum problem, a fundamental algorithm challenge commonly used in coding interviews and competitive programming. The solution finds two distinct indices in an array whose elements sum to a target value. Including testing the program.
-
-11402_CS351_ProjectB "Mini CSV Database": This project implements
+- 11402_CS351_Project0: *Two Sum Problem*: This project implements a solution to the classic Two Sum problem, where two distinct indices in an array are found whose elements sum to a target value.
+- 11402_CS351_ProjectB *Mini CSV Database*: This project implements a lightweight database and query engine for processing CSV files.
